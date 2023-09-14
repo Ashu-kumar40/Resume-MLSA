@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "RecruitEase",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "Digital Recruitment Solution: Designed and developed a seamless hiring platform, combining UI/UX design expertise with React JS development to streamline the hiring process for multiple MNCs.",
+    url: "https://github.com/Ashu-kumar40/recruitment-solution",
   },
   {
-    title: "Web Development for Beginners",
+    title: "MovieYaar",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "Created MovieYaar, a visually stunning movie review website using ReactJS, and TMDB API, offering comprehensive movie information, upcoming releases, top-rated films, and popular movie lists",
+    url: "https://github.com/Ashu-kumar40/MovieYaar",
   },
   {
-    title: "My Resume Site",
+    title: "Weather Web App",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "Developed a responsive Weather Web App utilizing HTML, CSS, JavaScript, and the Open Weather Map API. Users can effortlessly search for weather conditions by city name or their current location, with visually appealing weather condition illustrations displayed accordingly.",
+    url: "https://github.com/Ashu-kumar40/weather-webApp",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Martial Bistro",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Designed Martian Bistro, a visually stunning restaurant app UI/UX during a 24-hour Hackathon, showcasing a captivating Mars-themed design.",
+    url: "https://www.figma.com/proto/ko0yuQRLWjvB7gugBc7XRs/Martial-bistro?node-id=3401%3A7796&scaling=scale-down&page-id=3304%3A6839",
   },
 ];
 
